@@ -1,0 +1,18 @@
+html{
+  font-family: sans-serif;
+}
+
+h1{
+  color: DarkGreen;
+}
+
+h2{
+  color: DarkBlue
+}
+h3{
+  color: SeaGreen;
+}
+
+body{
+  background-color: LightGray;
+}
